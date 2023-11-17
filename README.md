@@ -1,0 +1,2 @@
+# wusco-browserext
+adsadasd
