@@ -60,6 +60,24 @@ https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoe
 
 and click add to chrome and accept/pin it
 
+ok now we need a bulk url opener for opening game sites/proxies so goto: 
+
+https://chromewebstore.google.com/detail/bulk-url-opener/kgnfciolbjojfdbbelbdbhhocjmhenep
+
+and click add to chrome and accept/pin it
+
+ok now we need a tab session manager so goto:
+
+https://chromewebstore.google.com/detail/tab-session-manager/iaiomicjabeggjcfkbimgmglanimpnae
+
+and click add to chrome and accept/pin it
+
+ok now we need a bookmark manager because bookmarking is weird on this so goto:
+
+https://chromewebstore.google.com/detail/bookmark-manager-organize/kngfehiihhhogmmdkfpgilhabflhmiai
+
+and click add to chrome and accept/pin it
+
 ok now we need a download manager because downloading is weird on this so goto:
 
 https://chromewebstore.google.com/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn
@@ -84,11 +102,25 @@ https://chromewebstore.google.com/detail/memory-saver/dhnagkedjknpmhmdoaggchdefb
 
 and click add to chrome and accept/pin it
 
+ok now we need another memory optimizer so we can optimize this so goto:
+
+https://chromewebstore.google.com/detail/tab-suspender/fiabciakcmgepblmdkmemdbbkilneeeh
+
+and click add to chrome and accept/pin it
+
 ok now we need a cpu/ram optimizer so goto:
 
 https://chromewebstore.google.com/detail/monitor-and-clean-systems/abhdadadmefcinkehbogolpfocgjkkgb
 
 and click add to chrome and accept/pin it
+
+
+
+
+planning to add a edit chrome new tab page guide here:
+
+
+
 
 ok so thats all the extensions for now until i find more but here is some chrome flag settings that we will change to optimize this for browser games and browsing faster so goto:
 
