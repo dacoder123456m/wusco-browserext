@@ -26,7 +26,7 @@ and click edit button on ctrl j and press ctrl j shortcut and repeat this but in
 
 https://chromewebstore.google.com/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck
 
-and click add to chrome and  accept then click the puzzle icon and click the pin icon and that will pin it to the browser that is how you add an extension you will do the same for every other one
+and click add to chrome and  accept then click the puzzle icon and click the pin icon and that will pin it to the browser that is how you add an extension you will do the same for every other one also if you want to remove an extension you have to have it on and pinned and then two finger click the one you want to remove and click remove from chrome this is the only way you can remove it you cant remove it inside of settings either 
 
 ok now we need a vpn so goto this link:
 
