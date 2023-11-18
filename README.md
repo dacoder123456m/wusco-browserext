@@ -42,6 +42,12 @@ https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnna
 
 and click add to chrome and accept/pin it
 
+ok now we need a bookmarklet/js runner so goto:
+
+https://chromewebstore.google.com/detail/rms-run-my-script-script/bifnofbpdbdmgopjoidbicngijjmlogj
+
+and click add to chrome and accept/pin it
+
 ok now we need a emoji keyboard for texting so goto:
 
 https://chromewebstore.google.com/detail/emoji-keyboard-by-joypixe/ipdjnhgkpapgippgcgkfcbpdpcgifncb
