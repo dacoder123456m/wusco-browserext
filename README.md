@@ -84,6 +84,11 @@ https://chromewebstore.google.com/detail/memory-saver/dhnagkedjknpmhmdoaggchdefb
 
 and click add to chrome and accept/pin it
 
+ok now we need a cpu/ram optimizer so goto:
+
+https://chromewebstore.google.com/detail/monitor-and-clean-systems/abhdadadmefcinkehbogolpfocgjkkgb
+
+and click add to chrome and accept/pin it
 
 ok so thats all the extensions for now until i find more but here is some chrome flag settings that we will change to optimize this for browser games and browsing faster so goto:
 
