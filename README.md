@@ -116,15 +116,11 @@ and click add to chrome and accept/pin it
 
 ok now we need a download manager because downloading is weird on this so goto:
 
-https://chromewebstore.google.com/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn
+https://chromewebstore.google.com/detail/thunder-download-manager/nllgadppmkoamdlocamdnmimkehhojai
 
 and click add to chrome and accept/pin it
 
-but now goto:
-
-chrome://extensions/?id=mciiogijehkdemklbdcbfkefimifhecn#allow-on-file-urls
-
-and scroll down and click allow access to file Urls
+when you want to open the file manager just click the extension
 
 ok now goto:
 
