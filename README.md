@@ -18,11 +18,17 @@ chrome://extensions
 
 then click the developer mode switch on in the top right corner and click load unpacked in the top left corner then goto your folder then double click it you should see skiovox-helper-... then click that and click open then you have done the hard part now here is how you personalize the browser to remove all restrictions and make it good
 
-first we need a vpn so goto this link:
+ok so goto:
+
+chrome://extensions/shortcuts
+
+and click edit button on ctrl j and press ctrl j shortcut and repeat this but instead for the respective shortcut for the ctrl w shortcut and the ctrl h shortcut and you can edit the rest to your liking like you can activate the bookmarks using a shortcut and you can activate rms and pip and cdm etc so yeah my settings are: ctrl j: ctrl j and ctrl h: ctrl h and ctrl w: ctrl w and ctrl + shift + T: ctrl + shift + T and ctrl + I and picture in picture by google: ctrl g and emoji keyboard: search + shift + space | the rest i just press normaly because there is no need for a shortcut
+
+ok now we need a vpn so goto this link:
 
 https://chromewebstore.google.com/detail/vpn-ultimate-best-vpn-by/epeigjgefhajkiiallmfblgglmdbhfab?pli=1
 
-and click add to chrome click accept then click the puzzle icon and click the pin icon and that will pin it to the browser that is how you add an extension then you click it and change your server in the top of the menu to us and then go back and click the power switch then your vpn is active be sure to click it when you re-enter the browser
+and click add to chrome click accept then click the puzzle icon and click the pin icon and that will pin it to the browser that is how you add an extension then you click it and change your server in the top of the menu to us and then go back and click the power switch then your vpn is active be sure to click the extension every now and then to check if it disconnected and be sure to always turn it on when you go back to the browser it will be green and have the countries server you selected abrevation on top if it is connected properly if not it should be grey when its not connected
 
 ok now we need an adblocker so goto:
 
@@ -30,11 +36,17 @@ https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphj
 
 and click add to chrome and accept/pin it
 
+if you have problems with sites detecting it then click on it and disable it for that spicific site if its on it will be red but if you disable it it will be grey
+
 now we need dark mode but for some reason themes dont work so we need to install this extension instead so goto:
 
 https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
 
 and click add to chrome and accept/pin it
+
+and when you want to disable dark mode on a spicific page just click the extension and click off
+
+also click open a new tab and click the art color palet logo and go to customize and change it to black and save it will make everything dark mode
 
 ok now we need a privacy extension so goto:
 
@@ -48,11 +60,21 @@ https://chromewebstore.google.com/detail/rms-run-my-script-script/bifnofbpdbdmgo
 
 and click add to chrome and accept/pin it
 
-ok now we need a bookmark manager because bookmarking is weird on this also btw use the js runner instead if ur running bookmarklets so goto:
+and when you want to run js code just click on the extensiona and paste it and run it
 
-https://chromewebstore.google.com/detail/bookmark-manager-organize/kngfehiihhhogmmdkfpgilhabflhmiai
+ok now we need a to activate the bookmark bar also btw use the js runner instead if ur running bookmarklets so goto:
+
+chrome://settings/appearance 
+
+and activate show bookmarks bar
+
+ok now we need inspect element so goto:
+
+https://chromewebstore.google.com/detail/firebug-lite-for-google-c/ehemiojjcpldeipjhjkepfdaohajpbdo
 
 and click add to chrome and accept/pin it
+
+and click the extension to run inspect element
 
 ok now we need a emoji keyboard for texting so goto:
 
@@ -60,11 +82,15 @@ https://chromewebstore.google.com/detail/emoji-keyboard-by-joypixe/ipdjnhgkpapgi
 
 and click add to chrome and accept/pin it
 
+if you want an emoji click the extension and search of find your emoji then click and and it will copy to clipboard you can have multiple copied so click x when you want to clear the copying box
+
 now we need a volume booster so goto:
 
 https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke
 
 and click add to chrome and accept/pin it
+
+when boosting or lowering volume click the extension and move the volume slider
 
 ok now we need a picture in picture feature for videos so goto:
 
@@ -72,11 +98,15 @@ https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoe
 
 and click add to chrome and accept/pin it
 
+when your in a video click the extension and the video will go into picture in picture mode just like how normal chrome does it
+
 ok now we need a bulk url opener for opening game sites/proxies so goto: 
 
 https://chromewebstore.google.com/detail/bulk-url-opener/kgnfciolbjojfdbbelbdbhhocjmhenep
 
 and click add to chrome and accept/pin it
+
+when trying to create or open a list of links just click the extension and paste or edit/run the links
 
 ok now we need a tab session manager so goto:
 
@@ -119,14 +149,6 @@ ok now we need a cpu/ram optimizer so goto:
 https://chromewebstore.google.com/detail/monitor-and-clean-systems/abhdadadmefcinkehbogolpfocgjkkgb
 
 and click add to chrome and accept/pin it
-
-
-
-
-planning to add a edit chrome new tab page guide here:
-
-
-
 
 ok so thats all the extensions for now until i find more but here is some chrome flag settings that we will change to optimize this for browser games and browsing faster so goto:
 
