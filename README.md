@@ -22,13 +22,17 @@ ok so goto:
 
 chrome://extensions/shortcuts
 
-and click edit button on ctrl j and press ctrl j shortcut and repeat this but instead for the respective shortcut for the ctrl w shortcut and the ctrl h shortcut and you can edit the rest to your liking like you can activate the bookmarks using a shortcut and you can activate rms and pip and cdm etc so yeah my settings are: ctrl j: ctrl j and ctrl h: ctrl h and ctrl w: ctrl w and ctrl + shift + T: ctrl + shift + T and ctrl + I and picture in picture by google: ctrl g and emoji keyboard: search + shift + space | the rest i just press normaly because there is no need for a shortcut
+and click edit button on ctrl j and press ctrl j shortcut and repeat this but instead for the respective shortcut for the ctrl w shortcut and the ctrl h shortcut and you can edit the rest to your liking like you can activate the bookmarks using a shortcut and you can activate rms and pip and cdm etc so yeah my settings are: ctrl j: ctrl j and ctrl h: ctrl h and ctrl w: ctrl w and ctrl + shift + T: ctrl + shift + T and ctrl + I and picture in picture by google: ctrl g and emoji keyboard: search + shift + space | the rest i just press normaly because there is no need for a shortcut also if you want more shortcuts for things which i dont need just goto:
+
+https://chromewebstore.google.com/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck
+
+and click add to chrome and  accept then click the puzzle icon and click the pin icon and that will pin it to the browser that is how you add an extension you will do the same for every other one
 
 ok now we need a vpn so goto this link:
 
 https://chromewebstore.google.com/detail/vpn-ultimate-best-vpn-by/epeigjgefhajkiiallmfblgglmdbhfab?pli=1
 
-and click add to chrome click accept then click the puzzle icon and click the pin icon and that will pin it to the browser that is how you add an extension then you click it and change your server in the top of the menu to us and then go back and click the power switch then your vpn is active be sure to click the extension every now and then to check if it disconnected and be sure to always turn it on when you go back to the browser it will be green and have the countries server you selected abrevation on top if it is connected properly if not it should be grey when its not connected
+and click add to chrome and accept/pin it then you click it and change your server in the top of the menu to us and then go back and click the power switch then your vpn is active be sure to click the extension every now and then to check if it disconnected and be sure to always turn it on when you go back to the browser it will be green and have the countries server you selected abrevation on top if it is connected properly if not it should be grey when its not connected
 
 ok now we need an adblocker so goto:
 
