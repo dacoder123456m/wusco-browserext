@@ -1,5 +1,5 @@
 # wusco-browserext
-1st step follow this tutorial by using c or b:
+1st step follow this tutorial by using c or b and when you get in go back to this repo here is the url:
 
 https://skiovox.com/
 
@@ -22,7 +22,7 @@ ok so goto:
 
 chrome://extensions/shortcuts
 
-and click edit button on ctrl j and press ctrl j shortcut and repeat this but instead for the respective shortcut for the ctrl w shortcut and the ctrl h shortcut and you can edit the rest to your liking like you can activate the bookmarks using a shortcut and you can activate rms and pip and cdm etc so yeah my settings are: ctrl j: ctrl j and ctrl h: ctrl h and ctrl w: ctrl w and ctrl + shift + T: ctrl + shift + T and ctrl + I and picture in picture by google: ctrl g and emoji keyboard: search + shift + space | the rest i just press normaly because there is no need for a shortcut
+and click edit button on ctrl j and press ctrl j shortcut and repeat this but instead for the respective shortcut for the ctrl w shortcut and the ctrl h shortcut and you can edit the rest to your liking like you can activate the bookmarks using a shortcut and you can activate extensions but before you add the extension activation shortcuts you actually need to have the extensions so skip forward in order to install them ok anyways yeah my settings are: ctrl j: ctrl j and ctrl h: ctrl h and ctrl w: ctrl w and ctrl + shift + T: ctrl + shift + T and ctrl + I and picture in picture by google: ctrl g and emoji keyboard: search + shift + space | the rest i just press normaly because there is no need for a shortcut
 
 ok now we need a vpn so goto this link:
 
@@ -154,7 +154,7 @@ ok so thats all the extensions for now until i find more but here is some chrome
 
 chrome://flags#scheduler-configuration
 
-next to scheduler configuration choose Enables Hyper-Threading on relevant CPU's and next time you boot up the browser it will be faster at playing browser games and browsing but thats not it so goto:
+next to scheduler configuration choose Enables Hyper-Threading on relevant CPU's ok here is the rest so goto:
 
 chrome://flags/#ignore-gpu-blocklist
 
@@ -166,4 +166,8 @@ and click enabled for GPU rasterization ok now goto:
 
 chrome://flags/#smooth-scrolling
 
-and click enabled for Smooth Scrolling that is it for documentation for now but i will update when i find more usefull things
+and click enabled for Smooth Scrolling
+
+then restart the browser and you should be fully set with a fast functional browser
+
+that is it for documentation for now but i will update when i find more usefull things these settings should create the ideal browser speed and functionality for browsing on our chromebooks
