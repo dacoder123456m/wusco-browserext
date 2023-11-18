@@ -48,6 +48,12 @@ https://chromewebstore.google.com/detail/rms-run-my-script-script/bifnofbpdbdmgo
 
 and click add to chrome and accept/pin it
 
+ok now we need a bookmark manager because bookmarking is weird on this also btw use the js runner instead if ur running bookmarklets so goto:
+
+https://chromewebstore.google.com/detail/bookmark-manager-organize/kngfehiihhhogmmdkfpgilhabflhmiai
+
+and click add to chrome and accept/pin it
+
 ok now we need a emoji keyboard for texting so goto:
 
 https://chromewebstore.google.com/detail/emoji-keyboard-by-joypixe/ipdjnhgkpapgippgcgkfcbpdpcgifncb
@@ -75,12 +81,6 @@ and click add to chrome and accept/pin it
 ok now we need a tab session manager so goto:
 
 https://chromewebstore.google.com/detail/tab-session-manager/iaiomicjabeggjcfkbimgmglanimpnae
-
-and click add to chrome and accept/pin it
-
-ok now we need a bookmark manager because bookmarking is weird on this so goto:
-
-https://chromewebstore.google.com/detail/bookmark-manager-organize/kngfehiihhhogmmdkfpgilhabflhmiai
 
 and click add to chrome and accept/pin it
 
