@@ -82,6 +82,48 @@ and click add to chrome and accept/pin it
 
 and click the extension to run inspect element
 
+ok now we need enhancer for youtube so goto 
+
+https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
+and click add to chrome and accept/pin it
+
+ok now we need view image extension for seeing google images in a new tab so goto: 
+
+https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
+and click add to chrome and accept/pin it ok now goto:
+
+https://gist.github.com/ner00/ec9ae47e202b8e99f19be44a5af6baf3/raw/viewimage.user.js
+
+and click install then click the extension then click dashboard with the settings gear emoji then click the empty box ad the left middle of the view userscript extension then when it pops up with apply this to selected scripts and then a dropdown with please choose an option click it and click enable then close on the right and then ur done
+
+when you want to view a google image in a new tab click the View Image on the image on google
+
+ok now we need project naptha so goto:
+
+https://chromewebstore.google.com/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf
+
+and click add to chrome and accept/pin it 
+
+ok now we need google translate so goto:
+
+https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb
+
+and click add chrome and accept/pin it
+
+ok now we need web page highlighter so goto:
+
+https://chromewebstore.google.com/detail/web-page-highlighter/poemphopblfbpoaoglhbljbjfodofmpa
+
+and click add to chrome and accept/pin it
+
+ok now we need custom curser for chrome so goto:
+
+https://chromewebstore.google.com/detail/custom-cursor-for-chrome/ogdlpmhglpejoiomcodnpjnfgcpmgale
+
+and click add to chrome and accept/pin it
+
 ok now we need a emoji keyboard for texting so goto:
 
 https://chromewebstore.google.com/detail/emoji-keyboard-by-joypixe/ipdjnhgkpapgippgcgkfcbpdpcgifncb
