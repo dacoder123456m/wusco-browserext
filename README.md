@@ -168,7 +168,27 @@ and click enabled for GPU rasterization ok now goto:
 
 chrome://flags/#smooth-scrolling
 
-and click enabled for Smooth Scrolling
+and click enabled for Smooth Scrolling ok now goto:
+
+chrome://flags/#enable-parallel-downloading
+
+and click enabled for Parallel downloading ok now goto:
+
+chrome://flags/#tab-hover-card-image-settings
+
+and click enabled for Tab Hover Card Image Setting ok now goto:
+
+chrome://flags/#enable-quic
+
+and click enabled for Experimental QUIC Protocol ok now goto:
+
+chrome://flags/#back-forward-cache
+
+and click enabled for Back-forward cache ok now goto if you want to make SURE that your browser is dark mode:
+
+chrome://flags/#enable-force-dark
+
+and click enabled for Auto Dark Mode for Web Components 
 
 then restart the browser and you should be fully set with a fast functional browser
 
