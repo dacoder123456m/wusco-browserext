@@ -62,7 +62,7 @@ and click add to chrome and accept/pin it
 
 ok now we need a bookmarklet/js runner so goto:
 
-https://chromewebstore.google.com/detail/rms-run-my-script-script/bifnofbpdbdmgopjoidbicngijjmlogj
+https://chromewebstore.google.com/detail/scripty-javascript-inject/milkbiaeapddfnpenedfgbfdacpbcbam
 
 and click add to chrome and accept/pin it
 
