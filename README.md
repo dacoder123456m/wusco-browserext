@@ -5,7 +5,7 @@ https://skiovox.com/
 
 then go to this: https://github.com/bypassiwastaken/skiovox-helper/releases
 
-and download: https://github.com/bypassiwastaken/skiovox-helper/archive/refs/tags/2.3.0.tar.gz
+and download the tar.gz
 
 then goto:
 https://ezyzip.com/open-extract-tar-file-online.html#
