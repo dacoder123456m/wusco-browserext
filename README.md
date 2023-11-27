@@ -82,23 +82,11 @@ and click add to chrome and accept/pin it
 
 and click the extension to run inspect element
 
-ok now we need enhancer for youtube so goto 
+ok now we need tampermonkey so goto:
 
 https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
 and click add to chrome and accept/pin it
-
-ok now we need view image extension for seeing google images in a new tab so goto: 
-
-https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
-
-and click add to chrome and accept/pin it ok now goto:
-
-https://gist.github.com/ner00/ec9ae47e202b8e99f19be44a5af6baf3/raw/viewimage.user.js
-
-and click install then click the extension then click dashboard with the settings gear emoji then click the empty box ad the left middle of the view userscript extension then when it pops up with apply this to selected scripts and then a dropdown with please choose an option click it and click enable then close on the right and then ur done
-
-when you want to view a google image in a new tab click the View Image on the image on google
 
 ok now we need project naptha so goto:
 
@@ -193,6 +181,40 @@ ok now we need a cpu/ram optimizer so goto:
 https://chromewebstore.google.com/detail/monitor-and-clean-systems/abhdadadmefcinkehbogolpfocgjkkgb
 
 and click add to chrome and accept/pin it
+
+Tampermonkey userscripts:
+
+ok we need tampermonkey so goto:
+
+https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
+and click add to chrome and accept/pin it ok now goto:
+
+ok now we need view image extension for seeing google images in a new tab so goto: 
+
+https://gist.github.com/ner00/ec9ae47e202b8e99f19be44a5af6baf3/raw/viewimage.user.js
+
+and click install then click the extension then click dashboard with the settings gear emoji then click the empty box ad the left middle of the view userscript extension then when it pops up with apply this to selected scripts and then a dropdown with please choose an option click it and click enable then close on the right and then ur done
+
+when you want to view a google image in a new tab click the View Image on the image on google
+
+ok now we need a youtube age restriction bypass script so goto:
+
+https://greasyfork.org/en/scripts/479830-simple-youtube-age-restriction-bypass-enhanced
+
+and click install then click the extension then click dashboard with the settings gear emoji then click the empty box ad the left middle of the view userscript extension then when it pops up with apply this to selected scripts and then a dropdown with please choose an option click it and click enable then close on the right and then ur done
+
+ok now we need a google safe search bypass so goto:
+
+https://greasyfork.org/en/scripts/25286-google-disable-safesearch-automatically
+
+and click install then click the extension then click dashboard with the settings gear emoji then click the empty box ad the left middle of the view userscript extension then when it pops up with apply this to selected scripts and then a dropdown with please choose an option click it and click enable then close on the right and then ur done
+
+ok now we need a fps meter so goto:
+
+https://greasyfork.org/en/scripts/12408-fps-counter
+
+and click install then click the extension then click dashboard with the settings gear emoji then click the empty box ad the left middle of the view userscript extension then when it pops up with apply this to selected scripts and then a dropdown with please choose an option click it and click enable then close on the right and then ur done
 
 ok so thats all the extensions for now until i find more but here is some chrome flag settings that we will change to optimize this for browser games and browsing faster so goto:
 
