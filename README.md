@@ -218,11 +218,17 @@ ok now we need a google safe search bypass for😏 so goto:
 
 https://greasyfork.org/en/scripts/25286-google-disable-safesearch-automatically
 
-ok so we need improved youtube so goto:
-
-
-
 and click install then click the extension then click dashboard with the settings gear emoji then click the empty box ad the left middle of the view userscript extension then when it pops up with apply this to selected scripts and then a dropdown with please choose an option click it and click enable then close on the right and then ur done
+
+ok so we need improved youtube edited so goto:
+
+https://github.com/dacoder123456m/wusco-browserext/blob/main/betteryoutubeedited.txt
+
+and click copy raw code then click the tampermonkey extension then click dashboard with the settings gear emoji and then look at the tampermonkey tabs and look to the left of the installed userscripts and click the [+]  and then paste the code and then look to the top left not the corner and click file and then save it then go back to installed scripts tab and then click the empty box ad the left middle of the improved youtube userscript extension then when it pops up with apply this to selected scripts and then a dropdown with please choose an option click it and click enable then close on the right and then ur done
+
+ok now we need youtube fullscreen fix so goto:
+
+
 
 ok now we need a fps meter so goto:
 
