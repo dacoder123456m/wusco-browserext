@@ -218,6 +218,10 @@ ok now we need a google safe search bypass for😏 so goto:
 
 https://greasyfork.org/en/scripts/25286-google-disable-safesearch-automatically
 
+ok so we need improved youtube so goto:
+
+
+
 and click install then click the extension then click dashboard with the settings gear emoji then click the empty box ad the left middle of the view userscript extension then when it pops up with apply this to selected scripts and then a dropdown with please choose an option click it and click enable then close on the right and then ur done
 
 ok now we need a fps meter so goto:
