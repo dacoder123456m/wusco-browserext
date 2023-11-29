@@ -234,7 +234,9 @@ and click copy raw code then click the tampermonkey extension then click dashboa
 
 ok now we need youtube shorts autoscroll so goto:
 
+https://greasyfork.org/en/scripts/444340-youtube-shorts-autoscroll-and-seek
 
+and click install then click the extension then click dashboard with the settings gear emoji then click the empty box ad the left middle of the view userscript extension then when it pops up with apply this to selected scripts and then a dropdown with please choose an option click it and click enable then close on the right and then ur done
 
 ok now we need a fps meter so goto:
 
