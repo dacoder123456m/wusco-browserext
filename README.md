@@ -28,11 +28,21 @@ ok now we need a vpn so goto this link:
 
 https://chromewebstore.google.com/detail/ultrasurf-security-privac/mjnbclmflcpookeapghfhapeffmpodij
 
-and click add to chrome and accept the popup about what it does then click the puzzle icon and click the pin icon and that will pin it to the browser that is how you add an extension you will do the same for every other one also if you want to remove an extension you have to have it on and pinned and then two finger click the one you want to remove and click remove from chrome this is the only way you can remove it you cant remove it inside of settings either for this vpn you can change your server in the top of the menu to us or canada for faster speeds and then go back and click the power switch then your vpn is active be sure to click the extension every now and then to check if it disconnected and be sure to always turn it on when you go back to the browser it will be green and have the countries server you selected abrevation on top if it is connected properly if not it should be grey when its not connected
+and click add to chrome and accept the popup about what it does then click the puzzle icon and click the pin icon and that will pin it to the browser that is how you add an extension you will do the same for every other one also if you want to remove an extension you have to have it on and pinned and then two finger click the one you want to remove and click remove from chrome this is the only way you can remove it you cant remove it inside of settings either for this vpn you want to click it in the extension and click it on if pages arent loading goto a tab thats not a local one ex: chrome new tab or any chrome:// url and then turn it off reload and turn it back on
+
+ok now we need a tab closer for closing the popup from the vpn so goto:
+
+https://chromewebstore.google.com/detail/tab-close-gold/blhbohajaekmpblcffpkpogkhkmmbbhf
+
+and then click the extension click options then turn off enabled for the preset sites and then open:
+
+https://ultrasurfing.com/
+
+and click the extension and then click blacklist this site and then your done
 
 ok now we need a clearing data extension for😏 so goto:
 
-https://chromewebstore.google.com/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod
+https://chromewebstore.google.com/detail/history-cache-cleaner-sma/pooaemmkohlphkekccfajnbcokjlbehk
 
 and click add to chrome and accept/pin it
 
@@ -198,13 +208,13 @@ and click install then click the extension then click dashboard with the setting
 
 when you want to view a google image in a new tab click the View Image on the image on google
 
-ok now we need a youtube age restriction bypass script so goto:
+ok now we need a youtube age restriction bypass script for😏 so goto:
 
 https://greasyfork.org/en/scripts/479830-simple-youtube-age-restriction-bypass-enhanced
 
 and click install then click the extension then click dashboard with the settings gear emoji then click the empty box ad the left middle of the view userscript extension then when it pops up with apply this to selected scripts and then a dropdown with please choose an option click it and click enable then close on the right and then ur done
 
-ok now we need a google safe search bypass so goto:
+ok now we need a google safe search bypass for😏 so goto:
 
 https://greasyfork.org/en/scripts/25286-google-disable-safesearch-automatically
 
