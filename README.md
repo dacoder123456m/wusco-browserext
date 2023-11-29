@@ -64,6 +64,14 @@ and when you want to disable dark mode on a spicific page just click the extensi
 
 also click open a new tab and click the art color palet logo and go to customize and change it to black and save it will make everything dark mode
 
+ok now we need a screenshot extension so goto:
+
+https://chromewebstore.google.com/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj
+
+and click add to chrome and accept/pin it 
+
+when you want to take a screenshot click the extension and choose your screenshot option
+
 ok now we need a privacy extension so goto:
 
 https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg
