@@ -240,6 +240,16 @@ legend7269 bookmarklets:
 
 https://github.com/Legend7269/Bookmarklets
 
+autoclicker:
+
+https://github.com/sparemind/AutoClickerBookmarklet/blob/master/AutoClicker.js
+
+google cloaker:
+
+https://github.com/dragon731012/-WORKING-bookmarklets-and-games/blob/main/school/google%20cloaker
+
+teacher safety (Press z after activating to redirect to safe place when teacher walks by)
+
 edpuzzle hacks:
 
 https://github.com/ading2210/edpuzzle-answers/blob/main/bookmarklet.js
