@@ -228,6 +228,12 @@ and click copy raw code then click the tampermonkey extension then click dashboa
 
 ok now we need youtube fullscreen fix so goto:
 
+https://github.com/dacoder123456m/wusco-browserext/blob/main/fixyoutubefullscreen.txt
+
+and click copy raw code then click the tampermonkey extension then click dashboard with the settings gear emoji and then look at the tampermonkey tabs and look to the left of the installed userscripts and click the [+]  and then paste the code and then look to the top left not the corner and click file and then save it then go back to installed scripts tab and then click the empty box ad the left middle of the youtube fullscreen fix userscript extension then when it pops up with apply this to selected scripts and then a dropdown with please choose an option click it and click enable then close on the right and then ur done
+
+ok now we need youtube shorts autoscroll so goto:
+
 
 
 ok now we need a fps meter so goto:
