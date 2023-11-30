@@ -22,7 +22,7 @@ ok so goto:
 
 chrome://extensions/shortcuts
 
-and click edit button on ctrl j and press ctrl j shortcut and repeat this but instead for the respective shortcut for the ctrl w shortcut and the ctrl h shortcut and you can edit the rest to your liking like you can activate the bookmarks using a shortcut and you can activate extensions but before you add the extension activation shortcuts you actually need to have the extensions so skip forward in order to install them ok anyways yeah my settings are: ctrl j: ctrl j and ctrl h: ctrl h and ctrl w: ctrl w and ctrl + shift + T: ctrl + shift + T and ctrl + I and picture in picture by google: ctrl g and emoji keyboard: search + shift + space | the rest i just press normaly because there is no need for a shortcut
+and click edit button on ctrl j and press ctrl j shortcut and repeat this but instead for the respective shortcut for the ctrl w shortcut and the ctrl h shortcut and you can edit the rest to your liking like you can activate the bookmarks using a shortcut and you can activate extensions but before you add the extension activation shortcuts you actually need to have the extensions so skip forward in order to install them ok anyways yeah my settings are: ctrl j: ctrl j and ctrl h: ctrl h and ctrl w: ctrl w and ctrl + shift + T: ctrl + shift + T and ctrl + I and also ctrl + t: ctrl + t and picture in picture by google: ctrl g and emoji keyboard: search + shift + space | the rest i just press normaly because there is no need for a shortcut
 
 ok now we need a vpn so goto this link:
 
