@@ -254,7 +254,9 @@ and click install then click the extension then click dashboard with the setting
 
 ok now we need quizlet hacks so goto:
 
-chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/ask.html?aid=0b56024b-1a27-48bf-abba-084313274a7b
+https://github.com/nguyenvancaokyfpt/quizlet-live-hack/blob/main/Live%20Hack%20Quizlet.user.js
+
+and click copy raw code then click the tampermonkey extension then click dashboard with the settings gear emoji and then look at the tampermonkey tabs and look to the left of the installed userscripts and click the [+]  and then paste the code and then look to the top left not the corner and click file and then save it then go back to installed scripts tab and then click the empty box ad the left middle of the quizlet hacks userscript extension then when it pops up with apply this to selected scripts and then a dropdown with please choose an option click it and click enable then close on the right and then ur done
 
 and click install then click the extension then click dashboard with the settings gear emoji then click the empty box ad the left middle of the view userscript extension then when it pops up with apply this to selected scripts and then a dropdown with please choose an option click it and click enable then close on the right and then ur done
 
