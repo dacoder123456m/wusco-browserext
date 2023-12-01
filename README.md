@@ -336,10 +336,6 @@ chrome://flags/#tab-hover-card-image-settings
 
 and click enabled for Tab Hover Card Image Setting ok now goto:
 
-chrome://flags/#enable-quic
-
-and click enabled for Experimental QUIC Protocol ok now goto:
-
 chrome://flags/#back-forward-cache
 
 and click enabled for Back-forward cache ok now goto if you want to make SURE that your browser is dark mode:
