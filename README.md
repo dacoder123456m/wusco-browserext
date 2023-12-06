@@ -80,8 +80,19 @@ and click add to chrome and accept/pin it
 
 ok now we need a bookmarklet/js runner so goto:
 
-https://chromewebstore.google.com/detail/scripty-javascript-inject/milkbiaeapddfnpenedfgbfdacpbcbam
+Make sure you have uBlock Origin installed.
 
+Go to the extension's settings
+
+Under the settings tab, check the "I am an advanced user" box, then click on the small cog icon.
+
+Find userResourcesLocation and change it from unset to https://pastebin.com/raw/PPZ1T7uh
+
+Goe My filters tab of the settings and add the following line:
+
+*##+js(execute_script.js)
+Now press ctr+alt+tilde (~) to run code on the current page
+Have fun!
 and click add to chrome and accept/pin it
 
 and when you want to run js code just click on the extensiona and paste it and run it
