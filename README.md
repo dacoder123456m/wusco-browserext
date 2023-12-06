@@ -267,17 +267,9 @@ and click install then click the extension then click dashboard with the setting
 
 Bookmarklets:
 
-ok now we need scripty so goto:
+ok here is the list of bookmarklets most are github links to other peoples github collection of bookmarklets 
 
-https://chromewebstore.google.com/detail/scripty-javascript-inject/milkbiaeapddfnpenedfgbfdacpbcbam
-
-and click add to chrome and accept/pin it 
-
-when you want to add a bookmarklet click the extensiona and then click add new script+ and then give it a name and paste your bookmarklet code into the javascript code box and then scroll down and click create script
-
-when you want to activate one of your saved bookmarklets click the extension find the one you want to run and then look to the left of it and click the play icon and click off the extension box and your done
-
-ok here is the list of bookmarklets most are github links to other peoples github collection of bookmarklets
+to run a bookmarklet press ctrl + alt + (`) and paste the bookmarklet into the box and press enter or click ok
 
 legend7269 bookmarklets:
 
