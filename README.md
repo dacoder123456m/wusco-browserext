@@ -78,24 +78,18 @@ https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnna
 
 and click add to chrome and accept/pin it
 
-ok now we need a bookmarklet/js runner so goto:
+ok now we need a bookmarklet/js runner so we are going to use ublock origin
 
-Make sure you have uBlock Origin installed.
+ok so click the extension and click the settings button then check the "I am an advanced user" box, then click on the small cog icon.
 
-Go to the extension's settings
+then scroll all the way down and goto userResourcesLocation and change it from unset to https://pastebin.com/raw/PPZ1T7uh
 
-Under the settings tab, check the "I am an advanced user" box, then click on the small cog icon.
-
-Find userResourcesLocation and change it from unset to https://pastebin.com/raw/PPZ1T7uh
-
-Goe My filters tab of the settings and add the following line:
+ok now goto:
+My filters tab of the settings and add the following line:
 
 *##+js(execute_script.js)
-Now press ctr+alt+tilde (~) to run code on the current page
-Have fun!
-and click add to chrome and accept/pin it
 
-and when you want to run js code just click on the extensiona and paste it and run it
+and when you want to run js code press ctr+alt+tilde (~) and then paste your bookmarklet code into the box and click ok to run code on the current page
 
 ok now we need a to activate the bookmark bar also btw use the js runner instead if ur running bookmarklets so goto:
 
