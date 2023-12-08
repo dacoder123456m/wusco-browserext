@@ -343,4 +343,4 @@ and click enabled for Auto Dark Mode for Web Components
 
 then restart the browser and you should be fully set with a fast functional browser
 
-that is it for documentation for now but i will update when i find more usefull things these settings should create the ideal browser speed and functionality for browsing on our chromebooks
+that is it for documentation for now but i will update when i find more usefull things these settings should create the ideal browser speed and functionality for browsing on our chromebooks this is a exploit that may be patched in the future
